@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		7C4776841EEA11C200516A4A /* Mocha */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Mocha; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C4776871EEA11C200516A4A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7C47768E1EEE093C00516A4A /* File.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = File.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				7C4776871EEA11C200516A4A /* main.cpp */,
+				7C47768E1EEE093C00516A4A /* File.rtf */,
 			);
 			path = Mocha;
 			sourceTree = "<group>";
